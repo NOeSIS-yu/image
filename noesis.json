@@ -1,0 +1,719 @@
+{
+	"Heo": {
+		"type": "image",
+		"container": [
+			{
+				"text": "Heo-亲亲",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/亲亲.png'>"
+			},
+			{
+				"text": "Heo-偷偷看",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/偷偷看.png'>"
+			},
+			{
+				"text": "Heo-再见",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/再见.png'>"
+			},
+			{
+				"text": "Heo-加班",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/加班.png'>"
+			},
+			{
+				"text": "Heo-危险",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/危险.png'>"
+			},
+			{
+				"text": "Heo-发红包",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/发红包.png'>"
+			},
+			{
+				"text": "Heo-吃瓜",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/吃瓜.png'>"
+			},
+			{
+				"text": "Heo-吐血",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/吐血.png'>"
+			},
+			{
+				"text": "Heo-吵架",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/吵架.png'>"
+			},
+			{
+				"text": "Heo-呲牙笑",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/呲牙笑.png'>"
+			},
+			{
+				"text": "Heo-哈士奇",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/哈士奇.png'>"
+			},
+			{
+				"text": "Heo-哭泣",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/哭泣.png'>"
+			},
+			{
+				"text": "Heo-唱歌",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/唱歌.png'>"
+			},
+			{
+				"text": "Heo-喜欢",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/喜欢.png'>"
+			},
+			{
+				"text": "Heo-大笑",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/大笑.png'>"
+			},
+			{
+				"text": "Heo-头秃",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/头秃.png'>"
+			},
+			{
+				"text": "Heo-奋斗",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/奋斗.png'>"
+			},
+			{
+				"text": "Heo-好奇",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/好奇.png'>"
+			},
+			{
+				"text": "Heo-好的",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/好的.png'>"
+			},
+			{
+				"text": "Heo-害羞",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/害羞.png'>"
+			},
+			{
+				"text": "Heo-小丑",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/小丑.png'>"
+			},
+			{
+				"text": "Heo-尴尬",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/尴尬.png'>"
+			},
+			{
+				"text": "Heo-开心",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/开心.png'>"
+			},
+			{
+				"text": "Heo-引起不适",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/引起不适.png'>"
+			},
+			{
+				"text": "Heo-微笑",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/微笑.png'>"
+			},
+			{
+				"text": "Heo-思考",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/思考.png'>"
+			},
+			{
+				"text": "Heo-恶心",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/恶心.png'>"
+			},
+			{
+				"text": "Heo-惊吓",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/惊吓.png'>"
+			},
+			{
+				"text": "Heo-惊讶",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/惊讶.png'>"
+			},
+			{
+				"text": "Heo-感动",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/感动.png'>"
+			},
+			{
+				"text": "Heo-愤怒",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/愤怒.png'>"
+			},
+			{
+				"text": "Heo-我看好你",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/我看好你.png'>"
+			},
+			{
+				"text": "Heo-抠鼻",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/抠鼻.png'>"
+			},
+			{
+				"text": "Heo-捂嘴笑",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/捂嘴笑.png'>"
+			},
+			{
+				"text": "Heo-捂脸",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/捂脸.png'>"
+			},
+			{
+				"text": "Heo-擦汗",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/擦汗.png'>"
+			},
+			{
+				"text": "Heo-滑稽",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/滑稽.png'>"
+			},
+			{
+				"text": "Heo-烦恼",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/烦恼.png'>"
+			},
+			{
+				"text": "Heo-熬夜",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/熬夜.png'>"
+			},
+			{
+				"text": "Heo-爆炸",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/爆炸.png'>"
+			},
+			{
+				"text": "Heo-牛年进宝",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/牛年进宝.png'>"
+			},
+			{
+				"text": "Heo-狗头",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/狗头.png'>"
+			},
+			{
+				"text": "Heo-狗头围脖",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/狗头围脖.png'>"
+			},
+			{
+				"text": "Heo-狗头胖次",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/狗头胖次.png'>"
+			},
+			{
+				"text": "Heo-狗头花",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/狗头花.png'>"
+			},
+			{
+				"text": "Heo-狗头草",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/狗头草.png'>"
+			},
+			{
+				"text": "Heo-生病",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/生病.png'>"
+			},
+			{
+				"text": "Heo-疑问",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/疑问.png'>"
+			},
+			{
+				"text": "Heo-眩晕",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/眩晕.png'>"
+			},
+			{
+				"text": "Heo-睡觉",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/睡觉.png'>"
+			},
+			{
+				"text": "Heo-禁言",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/禁言.png'>"
+			},
+			{
+				"text": "Heo-笑哭",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/笑哭.png'>"
+			},
+			{
+				"text": "Heo-纠结",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/纠结.png'>"
+			},
+			{
+				"text": "Heo-绿帽",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/绿帽.png'>"
+			},
+			{
+				"text": "Heo-耍酷",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/耍酷.png'>"
+			},
+			{
+				"text": "Heo-被打",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/被打.png'>"
+			},
+			{
+				"text": "Heo-送福",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/送福.png'>"
+			},
+			{
+				"text": "Heo-阴险",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/阴险.png'>"
+			},
+			{
+				"text": "Heo-鬼脸",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/鬼脸.png'>"
+			},
+			{
+				"text": "Heo-鼓掌",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Heo/鼓掌.png'>"
+			}
+		]
+	},
+	"狐狸": {
+		"type": "image",
+		"container": [
+			{
+				"text": "Sweetie_Bunny-12311678",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311678.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311679",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311679.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311680",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311680.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311681",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311681.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311682",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311682.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311683",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311683.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311684",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311684.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311685",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311685.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311686",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311686.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311687",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311687.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311688",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311688.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311689",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311689.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311690",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311690.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311691",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311691.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311692",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311692.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311693",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311693.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311694",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311694.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311695",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311695.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311696",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311696.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311697",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311697.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311698",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311698.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311699",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311699.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311700",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311700.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311701",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311701.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311702",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311702.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311703",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311703.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311704",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311704.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311705",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311705.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311706",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311706.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311707",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311707.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311708",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311708.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311709",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311709.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311710",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311710.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311711",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311711.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311712",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311712.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311713",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311713.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311714",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311714.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311715",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311715.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311716",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311716.png'>"
+			},
+			{
+				"text": "Sweetie_Bunny-12311717",
+				"icon": "<img src='https://emotion.acs.pw/emotion/Sweetie_Bunny/12311717.png'>"
+			}
+		]
+	},
+  
+	"搞怪": {
+		"type": "image",
+		"container": [
+			{
+				"text": "default-01",
+				"icon": "<img src='https://emotion.acs.pw/emotion/default/01.webp'>"
+			},
+			{
+				"text": "default-010",
+				"icon": "<img src='https://emotion.acs.pw/emotion/default/010.webp'>"
+			},
+			{
+				"text": "default-011",
+				"icon": "<img src='https://emotion.acs.pw/emotion/default/011.webp'>"
+			},
+			{
+				"text": "default-012",
+				"icon": "<img src='https://emotion.acs.pw/emotion/default/012.webp'>"
+			},
+			{
+				"text": "default-013",
+				"icon": "<img src='https://emotion.acs.pw/emotion/default/013.webp'>"
+			},
+			{
+				"text": "default-014",
+				"icon": "<img src='https://emotion.acs.pw/emotion/default/014.webp'>"
+			},
+			{
+				"text": "default-016",
+				"icon": "<img src='https://emotion.acs.pw/emotion/default/016.webp'>"
+			},
+			{
+				"text": "default-017",
+				"icon": "<img src='https://emotion.acs.pw/emotion/default/017.webp'>"
+			},
+			{
+				"text": "default-018",
+				"icon": "<img src='https://emotion.acs.pw/emotion/default/018.jpg'>"
+			},
+			{
+				"text": "default-019",
+				"icon": "<img src='https://emotion.acs.pw/emotion/default/019.webp'>"
+			},
+			{
+				"text": "default-02",
+				"icon": "<img src='https://emotion.acs.pw/emotion/default/02.webp'>"
+			},
+			{
+				"text": "default-020",
+				"icon": "<img src='https://emotion.acs.pw/emotion/default/020.webp'>"
+			},
+			{
+				"text": "default-021",
+				"icon": "<img src='https://emotion.acs.pw/emotion/default/021.webp'>"
+			},
+			{
+				"text": "default-022",
+				"icon": "<img src='https://emotion.acs.pw/emotion/default/022.webp'>"
+			},
+			{
+				"text": "default-023",
+				"icon": "<img src='https://emotion.acs.pw/emotion/default/023.webp'>"
+			},
+			{
+				"text": "default-024",
+				"icon": "<img src='https://emotion.acs.pw/emotion/default/024.webp'>"
+			},
+			{
+				"text": "default-025",
+				"icon": "<img src='https://emotion.acs.pw/emotion/default/025.jpg'>"
+			},
+			{
+				"text": "default-026",
+				"icon": "<img src='https://emotion.acs.pw/emotion/default/026.webp'>"
+			},
+			{
+				"text": "default-027",
+				"icon": "<img src='https://emotion.acs.pw/emotion/default/027.webp'>"
+			},
+			{
+				"text": "default-028",
+				"icon": "<img src='https://emotion.acs.pw/emotion/default/028.webp'>"
+			},
+			{
+				"text": "default-029",
+				"icon": "<img src='https://emotion.acs.pw/emotion/default/029.webp'>"
+			},
+			{
+				"text": "default-03",
+				"icon": "<img src='https://emotion.acs.pw/emotion/default/03.jpg'>"
+			},
+			{
+				"text": "default-030",
+				"icon": "<img src='https://emotion.acs.pw/emotion/default/030.gif'>"
+			},
+			{
+				"text": "default-031",
+				"icon": "<img src='https://emotion.acs.pw/emotion/default/031.webp'>"
+			},
+			{
+				"text": "default-04",
+				"icon": "<img src='https://emotion.acs.pw/emotion/default/04.jpg'>"
+			},
+			{
+				"text": "default-05",
+				"icon": "<img src='https://emotion.acs.pw/emotion/default/05.gif'>"
+			},
+			{
+				"text": "default-06",
+				"icon": "<img src='https://emotion.acs.pw/emotion/default/06.gif'>"
+			},
+			{
+				"text": "default-07",
+				"icon": "<img src='https://emotion.acs.pw/emotion/default/07.webp'>"
+			},
+			{
+				"text": "default-08",
+				"icon": "<img src='https://emotion.acs.pw/emotion/default/08.webp'>"
+			},
+			{
+				"text": "default-09",
+				"icon": "<img src='https://emotion.acs.pw/emotion/default/09.webp'>"
+			}
+		]
+	},
+
+    "原神": {
+      "type": "image",
+      "container": [
+        {
+          "text": "原神-1",
+          "icon": "<img src='https://emotion.acs.pw/emotion/原神/1.jpg'>"
+        },
+        {
+          "text": "原神-10",
+          "icon": "<img src='https://emotion.acs.pw/emotion/原神/10.jpg'>"
+        },
+        {
+          "text": "原神-11",
+          "icon": "<img src='https://emotion.acs.pw/emotion/原神/11.jpg'>"
+        },
+        {
+          "text": "原神-12",
+          "icon": "<img src='https://emotion.acs.pw/emotion/原神/12.jpg'>"
+        },
+        {
+          "text": "原神-13",
+          "icon": "<img src='https://emotion.acs.pw/emotion/原神/13.jpg'>"
+        },
+        {
+          "text": "原神-14",
+          "icon": "<img src='https://emotion.acs.pw/emotion/原神/14.jpg'>"
+        },
+        {
+          "text": "原神-15",
+          "icon": "<img src='https://emotion.acs.pw/emotion/原神/15.jpg'>"
+        },
+        {
+          "text": "原神-16",
+          "icon": "<img src='https://emotion.acs.pw/emotion/原神/16.jpg'>"
+        },
+        {
+          "text": "原神-17",
+          "icon": "<img src='https://emotion.acs.pw/emotion/原神/17.jpg'>"
+        },
+        {
+          "text": "原神-18",
+          "icon": "<img src='https://emotion.acs.pw/emotion/原神/18.jpg'>"
+        },
+        {
+          "text": "原神-19",
+          "icon": "<img src='https://emotion.acs.pw/emotion/原神/19.jpg'>"
+        },
+        {
+          "text": "原神-2",
+          "icon": "<img src='https://emotion.acs.pw/emotion/原神/2.jpg'>"
+        },
+        {
+          "text": "原神-20",
+          "icon": "<img src='https://emotion.acs.pw/emotion/原神/20.jpg'>"
+        },
+        {
+          "text": "原神-21",
+          "icon": "<img src='https://emotion.acs.pw/emotion/原神/21.jpg'>"
+        },
+        {
+          "text": "原神-22",
+          "icon": "<img src='https://emotion.acs.pw/emotion/原神/22.jpg'>"
+        },
+        {
+          "text": "原神-3",
+          "icon": "<img src='https://emotion.acs.pw/emotion/原神/3.jpg'>"
+        },
+        {
+          "text": "原神-4",
+          "icon": "<img src='https://emotion.acs.pw/emotion/原神/4.jpg'>"
+        },
+        {
+          "text": "原神-5",
+          "icon": "<img src='https://emotion.acs.pw/emotion/原神/5.jpg'>"
+        },
+        {
+          "text": "原神-6",
+          "icon": "<img src='https://emotion.acs.pw/emotion/原神/6.jpg'>"
+        },
+        {
+          "text": "原神-7",
+          "icon": "<img src='https://emotion.acs.pw/emotion/原神/7.jpg'>"
+        },
+        {
+          "text": "原神-8",
+          "icon": "<img src='https://emotion.acs.pw/emotion/原神/8.jpg'>"
+        },
+        {
+          "text": "原神-9",
+          "icon": "<img src='https://emotion.acs.pw/emotion/原神/9.jpg'>"
+        }
+      ]
+    },
+    
+      "蛆音娘": {
+        "type": "image",
+        "container": [
+          {
+            "text": "蛆音娘-OK",
+            "icon": "<img src='https://emotion.acs.pw/emotion/蛆音娘/OK.png'>"
+          },
+          {
+            "text": "蛆音娘-die",
+            "icon": "<img src='https://emotion.acs.pw/emotion/蛆音娘/die.png'>"
+          },
+          {
+            "text": "蛆音娘-偷看",
+            "icon": "<img src='https://emotion.acs.pw/emotion/蛆音娘/偷看.png'>"
+          },
+          {
+            "text": "蛆音娘-卖萌",
+            "icon": "<img src='https://emotion.acs.pw/emotion/蛆音娘/卖萌.png'>"
+          },
+          {
+            "text": "蛆音娘-吃惊",
+            "icon": "<img src='https://emotion.acs.pw/emotion/蛆音娘/吃惊.png'>"
+          },
+          {
+            "text": "蛆音娘-吃瓜群众",
+            "icon": "<img src='https://emotion.acs.pw/emotion/蛆音娘/吃瓜群众.png'>"
+          },
+          {
+            "text": "蛆音娘-吐血",
+            "icon": "<img src='https://emotion.acs.pw/emotion/蛆音娘/吐血.png'>"
+          },
+          {
+            "text": "蛆音娘-哭泣",
+            "icon": "<img src='https://emotion.acs.pw/emotion/蛆音娘/哭泣.png'>"
+          },
+          {
+            "text": "蛆音娘-哼",
+            "icon": "<img src='https://emotion.acs.pw/emotion/蛆音娘/哼.png'>"
+          },
+          {
+            "text": "蛆音娘-大笑",
+            "icon": "<img src='https://emotion.acs.pw/emotion/蛆音娘/大笑.png'>"
+          },
+          {
+            "text": "蛆音娘-害怕",
+            "icon": "<img src='https://emotion.acs.pw/emotion/蛆音娘/害怕.png'>"
+          },
+          {
+            "text": "蛆音娘-扶额",
+            "icon": "<img src='https://emotion.acs.pw/emotion/蛆音娘/扶额.png'>"
+          },
+          {
+            "text": "蛆音娘-摇头",
+            "icon": "<img src='https://emotion.acs.pw/emotion/蛆音娘/摇头.png'>"
+          },
+          {
+            "text": "蛆音娘-无语",
+            "icon": "<img src='https://emotion.acs.pw/emotion/蛆音娘/无语.png'>"
+          },
+          {
+            "text": "蛆音娘-机智",
+            "icon": "<img src='https://emotion.acs.pw/emotion/蛆音娘/机智.png'>"
+          },
+          {
+            "text": "蛆音娘-滑稽",
+            "icon": "<img src='https://emotion.acs.pw/emotion/蛆音娘/滑稽.png'>"
+          },
+          {
+            "text": "蛆音娘-生气",
+            "icon": "<img src='https://emotion.acs.pw/emotion/蛆音娘/生气.png'>"
+          },
+          {
+            "text": "蛆音娘-疑问",
+            "icon": "<img src='https://emotion.acs.pw/emotion/蛆音娘/疑问.png'>"
+          },
+          {
+            "text": "蛆音娘-睡觉觉",
+            "icon": "<img src='https://emotion.acs.pw/emotion/蛆音娘/睡觉觉.png'>"
+          },
+          {
+            "text": "蛆音娘-肥皂",
+            "icon": "<img src='https://emotion.acs.pw/emotion/蛆音娘/肥皂.png'>"
+          }
+        ]
+      }
+    }
+
